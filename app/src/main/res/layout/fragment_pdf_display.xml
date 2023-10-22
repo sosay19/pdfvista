@@ -1,0 +1,15 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- Add UI elements like a PDF display view, dark mode toggle, etc. -->
+    <TextView
+        android:id="@+id/pdfDisplayView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PDF Display Area"
+        android:gravity="center"/>
+
+    <!-- Add other UI elements here -->
+</LinearLayout>
